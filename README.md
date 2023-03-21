@@ -6,4 +6,5 @@
     <li>Condicionais</li>
     <li>Praticando</li>
     <li>Funções</li>
+    <li>Criando Objetos e Classes</li>
 </ol>
