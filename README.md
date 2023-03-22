@@ -7,4 +7,6 @@
     <li>Praticando</li>
     <li>Funções</li>
     <li>Criando Objetos e Classes</li>
+    <li>Lista (Arrays)</li>
+    <li>Importação e Exportação</li>
 </ol>
